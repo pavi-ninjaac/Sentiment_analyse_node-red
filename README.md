@@ -20,5 +20,6 @@ Here you can see howto creat the sentment and emotion analysis with help of IBM 
 - Inside the twitter node copy paste the twitter API crendentials.22
 - Change your file node location to your local location.22
 - Click on deploy.
-#### you can see the result nd tweets are streaming now.22
+#### you can see the result nd tweets are streaming now.
+
 ![Screenshot (186)](https://user-images.githubusercontent.com/51699297/87297089-796efc80-c525-11ea-9e8e-89647133c056.png)
