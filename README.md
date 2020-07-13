@@ -8,7 +8,10 @@ Here you can see howto creat the sentment and emotion analysis with help of IBM 
 
 ![Screenshot (185)](https://user-images.githubusercontent.com/51699297/87297085-770ca280-c525-11ea-8cde-9402f55f9191.png)
 
-- Go to catalog-->search for Tone analyser--> leave all as it is --> and click create.22
+- Go to catalog-->search for Tone analyser--> leave all as it is --> and click create.
+
+![Screenshot (71)](https://user-images.githubusercontent.com/51699297/87300911-51cf6280-c52c-11ea-95f7-195c2563f094.png)
+
 - create youe twitter developer account as per the instruction given in the twitter  node.
 
 # Creat node-red flow:
@@ -35,5 +38,5 @@ Here you can see howto creat the sentment and emotion analysis with help of IBM 
 - Click on deploy.
 #### you can see the result nd tweets are streaming now.
 
-![Screenshot (186)](https://user-images.githubusercontent.com/51699297/87297089-796efc80-c525-11ea-9e8e-89647133c056.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/51699297/87300918-5431bc80-c52c-11ea-8ad2-a34aadfc4ab5.png)
 
